@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+}
+h2{
+    color: white;
+}
+.small-height{
+    height: 350px;
+}
+
+.blue-frame{
+    border: 10px ridge #00ffff;
+    padding: 4px;
+ }
+
+.purple-frame{
+    border: 10px ridge #e600e2;
+    padding: 4px;
+}
+
+.green-frame{
+    border:10px ridge #00fa32;
+    padding:4px;
+}
+
+.red-frame{
+    border: 10px ridge #bd1783;
+    padding: 4px;
+}
